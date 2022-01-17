@@ -1,0 +1,8 @@
+[CLIENTE]
+HOST_DBB=127.0.0.1
+USER_DBB=root
+PASSWORD_DBB=
+DATABASE_DBB=temp
+KEY_GURU=key
+PROGRAM_PATH=caminho do programa alvo
+LOCAL=True

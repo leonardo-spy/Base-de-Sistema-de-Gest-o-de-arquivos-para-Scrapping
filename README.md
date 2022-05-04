@@ -25,5 +25,5 @@ pip install -r requirements.txt
 LOCAL=True
 ```
 
-## Endpoints
-O Endpoints depende dos resultados gerado através do Scrapping, que será processado em gravado em arquivos pré-determinado.
+## Resultados & O que é esperado
+O que é esperado depende dos resultados gerado através do Scrapping, que será processado em gravado em arquivos pré-determinado.
